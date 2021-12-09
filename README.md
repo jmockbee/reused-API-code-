@@ -1,4 +1,7 @@
 # Using this code for learning 
+###The lambda function  is working but not returning any jokes see image below.
+![not working](https://user-images.githubusercontent.com/25730453/145316747-e6a73e3d-1241-472e-9452-a5df7f05c72b.JPG)
+
 # Your_Very_Own_API_BT
 
 An A Cloud Guru Maker Lab - 
